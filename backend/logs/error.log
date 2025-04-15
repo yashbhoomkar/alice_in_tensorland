@@ -1,0 +1,6 @@
+{"level":"error","message":"Database connection failed: querySrv EREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:31:13"}
+{"level":"error","message":"Database connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-03 18:05:35"}
+{"level":"error","message":"Database connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-03 18:07:01"}
+{"level":"error","message":"Database connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-04 00:01:33"}
+{"level":"error","message":"Database connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-04 00:01:37"}
+{"level":"error","message":"Database connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-04 00:02:01"}

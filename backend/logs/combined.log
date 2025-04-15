@@ -1,0 +1,220 @@
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 09:50:54"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 09:50:55"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 09:50:57"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 09:50:58"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 09:53:06"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 09:53:16"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 09:53:24"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 09:53:26"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 09:53:55"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 09:53:56"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 09:56:26"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 09:56:27"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:00:29"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:00:30"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:06:00"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:06:01"}
+{"level":"info","message":"User updated: 1158719164","timestamp":"2025-04-03 10:06:06"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:09:12"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:09:13"}
+{"level":"info","message":"User updated: 1158719164","timestamp":"2025-04-03 10:09:29"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:12:32"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:12:33"}
+{"level":"info","message":"User updated: 1158719164","timestamp":"2025-04-03 10:12:35"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:15:15"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:15:15"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:31:13"}
+{"level":"error","message":"Database connection failed: querySrv EREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:31:13"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:33:24"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:33:27"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:33:48"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:33:54"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:35:29"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:35:33"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:35:42"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:35:48"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:37:49"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:37:52"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:40:20"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:40:22"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:40:35"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:40:38"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:41:01"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:41:02"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:44:53"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:44:56"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:50:25"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:50:26"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:50:41"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:50:43"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:54:12"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:54:14"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:57:00"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:57:03"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 10:59:52"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 10:59:54"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 11:02:09"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 11:02:12"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 11:04:58"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 11:05:09"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 11:05:17"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 11:05:27"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 11:48:36"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 11:48:37"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 12:00:02"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 12:00:02"}
+{"level":"info","message":"User updated: undefined","timestamp":"2025-04-03 12:01:30"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 12:07:13"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 12:07:14"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:25:04"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:25:05"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:26:30"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:26:31"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:27:49"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:27:50"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:28:12"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:28:12"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:29:01"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:29:02"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:29:31"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:29:32"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:30:34"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:30:35"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:31:34"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-01.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:31:35"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:31:43"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:31:44"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:32:08"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:32:09"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:38:04"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:38:04"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:40:17"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:40:18"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 12:47:23"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 12:47:23"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:51:21"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:51:22"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:53:26"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:53:27"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 12:59:37"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 12:59:37"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 12:59:39"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 12:59:40"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 13:58:56"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-01.z6dzkac.mongodb.net","timestamp":"2025-04-03 13:58:57"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 14:37:35"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 14:37:36"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 14:37:44"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-01.z6dzkac.mongodb.net","timestamp":"2025-04-03 14:37:45"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 14:37:51"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 14:37:52"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 14:37:55"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 14:37:56"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 14:45:37"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 14:45:37"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 14:51:28"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 14:51:38"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 14:57:29"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 14:57:40"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 15:22:02"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 15:22:04"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 15:28:23"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 15:28:25"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 15:34:26"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 15:34:36"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 15:35:32"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 15:35:33"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 15:45:25"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 15:45:25"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 15:52:46"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 15:52:56"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 15:58:47"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 15:58:58"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:04:09"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:04:09"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:04:43"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:04:44"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:04:59"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:05:00"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:05:25"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:05:26"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:05:40"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:05:41"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:05:53"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:05:53"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:06:09"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:06:10"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:06:35"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-01.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:06:36"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:12:13"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:12:14"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:23:22"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:23:23"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:24:27"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-01.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:24:28"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:25:56"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-01.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:25:57"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:25:58"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:25:59"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:26:15"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:26:16"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:26:43"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-01.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:26:44"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:26:51"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:26:52"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:27:23"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:27:24"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:29:42"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:29:44"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 16:42:35"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-01.z6dzkac.mongodb.net","timestamp":"2025-04-03 16:42:36"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 16:55:38"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 16:55:38"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-03 17:07:40"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-03 17:07:51"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 18:05:35"}
+{"level":"error","message":"Database connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-03 18:05:35"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 18:07:01"}
+{"level":"error","message":"Database connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z6dzkac.mongodb.net","timestamp":"2025-04-03 18:07:01"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 18:08:06"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-02.z6dzkac.mongodb.net","timestamp":"2025-04-03 18:08:07"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 22:39:24"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 22:39:25"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 22:56:15"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 22:56:16"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 22:56:20"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 22:56:21"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 22:56:26"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 22:56:27"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 22:56:31"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 22:56:32"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 22:57:10"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 22:57:10"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 22:57:35"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 22:57:36"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 22:58:43"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 22:58:44"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:00:08"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:00:09"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:00:22"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:00:23"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:03:51"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:03:53"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:04:28"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:04:29"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:05:04"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:05:05"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:07:46"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:07:47"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:14:03"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:14:04"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:15:51"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:15:52"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:18:47"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:18:48"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:20:09"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:20:11"}
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2025-04-03 23:20:51"}
+{"level":"info","message":"MongoDB Connected: ac-1ufk2cm-shard-00-00.z6dzkac.mongodb.net","timestamp":"2025-04-03 23:20:52"}
+{"level":"warn","message":"MongoDB connection closed","timestamp":"2025-04-04 00:01:18"}
+{"level":"info","message":"MongoDB connection established","timestamp":"2025-04-04 00:30:15"}
